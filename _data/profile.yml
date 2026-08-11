@@ -5,7 +5,7 @@ navbar_name: "Yixiang Sun"
 positions:
 - name: Incoming Master's Student
 - name: School of Computer Science, China University of Geosciences (Wuhan)
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/cug.png  # Logo is optional
 
 
 email: "sunixiang@foxmail.com"
@@ -40,11 +40,11 @@ portrait_caption: >-
 
 education:
 - name: China University of Geosciences (Wuhan)
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/cug.png
   position: Master's Student in Electronic Information
   date: Sep. 2026 - present
 - name: Jiangxi University of Finance and Economics
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/jxufe.jpg
   position: B.Eng. in Virtual Reality Technology
   date: Sep. 2022 - Jul. 2026
 

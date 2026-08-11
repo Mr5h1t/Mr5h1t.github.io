@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-primer
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

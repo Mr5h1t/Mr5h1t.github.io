@@ -3,6 +3,9 @@
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
     <div class="px-3 pb-1 small">
+        {% if news_by_year.size == 0 %}
+        <div class="py-2 text-muted"><i class="fas fa-hourglass-half"></i> Coming soon...</div>
+        {% else %}
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
             {% assign not_first = true %}
@@ -17,5 +20,6 @@
             </div>
         </div>
         {% endfor %}
+        {% endif %}
     </div>
 </div>

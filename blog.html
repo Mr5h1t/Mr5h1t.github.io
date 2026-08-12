@@ -5,6 +5,8 @@ navbar_title: Blog
 body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
+{% comment %}
+暂时注释：该页面暂无内容，有内容后取消注释。
 
 {% assign blogs_by_year = site.posts | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
@@ -30,3 +32,4 @@ body_attr: >-
     </div>
 
 </div>
+{% endcomment %}

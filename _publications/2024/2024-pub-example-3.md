@@ -1,3 +1,4 @@
+<!-- 暂时禁用（模板示例内容）。以后有真实内容时，把上面这行注释标记删除，并恢复下面的 front matter 即可。
 ---
 title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
 date:           2024-05-12 00:01:00 +0800
@@ -20,3 +21,4 @@ links:
   Code: https://github.com/luost26/academic-homepage
   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+-->

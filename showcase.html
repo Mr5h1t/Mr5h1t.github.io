@@ -4,6 +4,8 @@ title : Showcase
 navbar_title: Showcase
 container_class: container-xl
 ---
+{% comment %}
+暂时注释：该页面暂无内容，有内容后取消注释。
 
 {% assign cards_by_group = site.showcase | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
@@ -30,3 +32,4 @@ container_class: container-xl
     {% endfor %}
 </div>
 {% endfor %}
+{% endcomment %}

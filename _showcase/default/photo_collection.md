@@ -1,3 +1,4 @@
+<!-- 暂时禁用（模板示例内容）。以后有真实内容时，把上面这行注释标记删除，并恢复下面的 front matter 即可。
 ---
 show: true
 width: 4
@@ -13,5 +14,6 @@ images:
   desc: Description 2
 - src: https://picsum.photos/seed/third33/800/800
 ---
+-->
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}

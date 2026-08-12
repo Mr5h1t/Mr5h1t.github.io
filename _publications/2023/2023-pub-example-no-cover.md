@@ -1,3 +1,4 @@
+<!-- 暂时禁用（模板示例内容）。以后有真实内容时，把上面这行注释标记删除，并恢复下面的 front matter 即可。
 ---
 title:          "Publication without cover image"
 date:           2023-01-1 00:01:00 +0800
@@ -20,3 +21,4 @@ links:
   Code: https://github.com/luost26/bubble-visual-hash
   Demo: https://luost26.github.io/bubble-visual-hash
 ---
+-->

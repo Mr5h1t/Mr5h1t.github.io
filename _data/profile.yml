@@ -22,20 +22,31 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   I will join the School of Computer Science at China University of
-  Geosciences (Wuhan) as a master's student in Electronic Information
-  in September 2026. I received my B.Eng. degree in Virtual Reality
+  I am Yixiang Sun, an incoming master's student in Electronic Information at
+  the School of Computer Science, China University of Geosciences (Wuhan),
+  starting in September 2026. I received my B.Eng. degree in Virtual Reality
   Technology from Jiangxi University of Finance and Economics in 2026.
-  My current research interest is differentiable meshing.
   </p>
 
   <p>
-  I grew up in <a href="https://en.wikipedia.org/wiki/Nanchang" target="_blank">Nanchang, Jiangxi, China</a>.
-  I spent my most memorable time at
-  <a href="https://baike.baidu.com/item/%E5%8D%97%E6%98%8C%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6" target="_blank">Nanchang No. 2 Middle School</a>
-  (class of 2019), where I made some truly great friends.
+  My research focuses on differentiable meshing — building learning-based
+  methods that optimize mesh geometry with gradients, with applications in
+  neural 3D reconstruction, generation, and geometry processing.
   </p>
 
+  <p>
+  I grew up in <a href="https://en.wikipedia.org/wiki/Nanchang" target="_blank">Nanchang, Jiangxi, China</a>,
+  and spent my most memorable years at
+  <a href="https://baike.baidu.com/item/%E5%8D%97%E6%98%8C%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6" target="_blank">Nanchang No. 2 Middle School</a>
+  (entered in 2019), where I made some truly great friends. Outside of research,
+  I enjoy playing basketball, traveling, and exploring anime, manga, and games.
+  </p>
+
+  <p>
+  I am open to collaboration and always happy to discuss research ideas,
+  especially on 3D vision and geometry processing. Feel free to reach out
+  via email.
+  </p>
 portrait_url: /assets/images/photos/yixiang-sun.jpg
 portrait_caption: >-
   Photo taken during my internship in Wuhan.
